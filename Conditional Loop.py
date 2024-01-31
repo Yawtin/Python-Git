@@ -5,3 +5,4 @@ for i in a:
 		print(f"{i} is an even number")
 	else:
 		print(f"{i} is an odd number")
+

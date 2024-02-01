@@ -1,0 +1,10 @@
+a for apple
+b for ball
+c for cat
+d for dog
+e for elephant
+f for frank
+g for giraffe
+h for hand
+i for india
+j for joker

@@ -3,7 +3,7 @@
 echo "Please enter a file path"
 read file_path
 
-if [-e "$file_path"]; then
+if [ -f "$file_path" ]; then
 	cat "$file_path"
 else
 	touch "$file_path"
